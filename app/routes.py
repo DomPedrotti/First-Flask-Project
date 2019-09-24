@@ -8,7 +8,7 @@ def index():
     posts = [
         {
             'author': {'username': 'Dom'},
-            'body' : 'Excited to start busting put this flask app'
+            'body' : 'Excited to start busting out this flask app'
         },
         {
             'author' : {'username': 'Everyone Else'},
